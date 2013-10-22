@@ -1,0 +1,4 @@
+argparse==1.2.1
+eventlet==0.14.0
+greenlet==0.4.1
+wsgiref==0.1.2
